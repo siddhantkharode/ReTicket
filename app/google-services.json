@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "583179475647",
+    "firebase_url": "https://ticket-resale-a4d31.firebaseio.com",
+    "project_id": "ticket-resale-a4d31",
+    "storage_bucket": "ticket-resale-a4d31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583179475647:android:d399a72939f4fec2c6440a",
+        "android_client_info": {
+          "package_name": "com.example.proto1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583179475647-kq7ccnd03r2a3cghlmiup216ctfka94t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proto1",
+            "certificate_hash": "2e930167d5b624bfc3b2957bf8d115c9b3610ef4"
+          }
+        },
+        {
+          "client_id": "583179475647-33o7ffns1q5gs8ic82ch894i2gf8vng6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzTyaRfK_0Xhj0B_kreldOAfw4MMM3uhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583179475647-33o7ffns1q5gs8ic82ch894i2gf8vng6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

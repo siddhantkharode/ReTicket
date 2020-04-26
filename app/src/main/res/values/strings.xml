@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Proto1</string>
+
+    <string-array name="BuyList">
+        <item> Music Concerts </item>
+        <item> Sports </item>
+        <item> Local Events </item>
+        <item> Movies </item>
+    </string-array>
+
 </resources>
